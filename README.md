@@ -25,6 +25,8 @@
 
 <details>
 
+![alt text](https://github.com/Sayward-k8/sdb-hw-02/blob/main/img/2.png)
+
 </details> 
 
 
@@ -36,6 +38,8 @@
 # Решение 3
 
 <details>
+
+![alt text](https://github.com/Sayward-k8/sdb-hw-02/blob/main/img/3.png)
 
 </details> 
 
@@ -49,6 +53,9 @@
 
 <details>
 
+![alt text](https://github.com/Sayward-k8/sdb-hw-02/blob/main/img/4.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-02/blob/main/img/4.1.png)
+
 </details> 
 
 
@@ -60,5 +67,7 @@
 # Решение 5
 
 <details>
+
+![alt text](https://github.com/Sayward-k8/sdb-hw-02/blob/main/img/5.png)
 
 </details> 
